@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1062651429046",
+    "project_id": "whathappen-71109",
+    "storage_bucket": "whathappen-71109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1062651429046:android:01f8ba20c3713eb8f42617",
+        "android_client_info": {
+          "package_name": "com.isaacdelosreyes.whathappen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1062651429046-pfl8i29p13mafma38dghmil6d66qb92k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqUGeOK6SEC3ElX6vtbN4sHydY4r7fDhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1062651429046-pfl8i29p13mafma38dghmil6d66qb92k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
